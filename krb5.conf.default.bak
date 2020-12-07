@@ -14,6 +14,6 @@
 
 [realms]
  US-EAST-2.COMPUTE.INTERNAL = {
-  kdc = ip-172-31-16-188.us-east-2.compute.internal
-  admin_server = ip-172-31-16-188.us-east-2.compute.internal
+  kdc = kerberos.example.com
+  admin_server = kerberos.example.com
  }
